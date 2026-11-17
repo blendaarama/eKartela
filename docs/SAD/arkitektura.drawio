@@ -1,0 +1,75 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="Page-1" id="cX35dknLy2Qu5sXVOs3U">
+    <mxGraphModel dx="1286" dy="1677" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" adaptiveColors="none">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NFejm6TkR0RhwmuV6SRF-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="956" width="864" x="360" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NFejm6TkR0RhwmuV6SRF-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;labelBackgroundColor=none;" value="eKartela" vertex="1">
+          <mxGeometry height="30" width="60" x="755" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="NFejm6TkR0RhwmuV6SRF-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="130" width="700" x="425" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="NFejm6TkR0RhwmuV6SRF-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;KartelaKlinikeController&lt;/font&gt;&lt;/code&gt;" vertex="1">
+          <mxGeometry height="70" width="250" x="460" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="NFejm6TkR0RhwmuV6SRF-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;RecetaController&lt;/font&gt;&lt;/code&gt;" vertex="1">
+          <mxGeometry height="70" width="250" x="810" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="NFejm6TkR0RhwmuV6SRF-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="390" width="700" x="425" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="NFejm6TkR0RhwmuV6SRF-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;RecetaService&lt;/font&gt;&lt;/code&gt;" vertex="1">
+          <mxGeometry height="70" width="190" x="820" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="NFejm6TkR0RhwmuV6SRF-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;labelBackgroundColor=none;" value="Prezantimi" vertex="1">
+          <mxGeometry height="30" width="60" x="730" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="NFejm6TkR0RhwmuV6SRF-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;KartelaKlinikeService&lt;/font&gt;&lt;/code&gt;" vertex="1">
+          <mxGeometry height="60" width="220" x="610" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="NFejm6TkR0RhwmuV6SRF-49" edge="1" parent="1" source="NFejm6TkR0RhwmuV6SRF-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="NFejm6TkR0RhwmuV6SRF-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFejm6TkR0RhwmuV6SRF-50" edge="1" parent="1" source="NFejm6TkR0RhwmuV6SRF-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="NFejm6TkR0RhwmuV6SRF-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFejm6TkR0RhwmuV6SRF-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="140" width="715" x="425" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="NFejm6TkR0RhwmuV6SRF-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;KartelaKlinikeRepository&lt;/font&gt;&lt;/code&gt;" vertex="1">
+          <mxGeometry height="70" width="250" x="490" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="NFejm6TkR0RhwmuV6SRF-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;RecetaRepository&lt;/font&gt;&lt;/code&gt;" vertex="1">
+          <mxGeometry height="75" width="260" x="820" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="NFejm6TkR0RhwmuV6SRF-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;labelBackgroundColor=none;" value="Qaja në të dhëna" vertex="1">
+          <mxGeometry height="30" width="130" x="720" y="915" as="geometry" />
+        </mxCell>
+        <mxCell id="NFejm6TkR0RhwmuV6SRF-62" edge="1" parent="1" source="NFejm6TkR0RhwmuV6SRF-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="NFejm6TkR0RhwmuV6SRF-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFejm6TkR0RhwmuV6SRF-70" edge="1" parent="1" source="NFejm6TkR0RhwmuV6SRF-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;labelBackgroundColor=none;" target="NFejm6TkR0RhwmuV6SRF-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="680" />
+              <mxPoint x="1000" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NFejm6TkR0RhwmuV6SRF-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" value="Logjika e Biznesit" vertex="1">
+          <mxGeometry height="30" width="180" x="680" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="NFejm6TkR0RhwmuV6SRF-73" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" value="Merr të dhënat klinike" vertex="1">
+          <mxGeometry height="30" width="190" x="815" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="NFejm6TkR0RhwmuV6SRF-75" edge="1" parent="1" source="NFejm6TkR0RhwmuV6SRF-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.828;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=default;labelBackgroundColor=none;" target="NFejm6TkR0RhwmuV6SRF-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
