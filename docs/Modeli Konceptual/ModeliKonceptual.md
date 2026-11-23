@@ -2,7 +2,7 @@
 
 ## Diagrami UML
 
-![Diagrami konceptual i eKartelës](./ModeliKonceptual.drawio.png)
+![Diagrami konceptual i eKartelës](ModeliKonceptual_drawio.png)
 
 ## Përshkrimi i modelit konceptual
 
